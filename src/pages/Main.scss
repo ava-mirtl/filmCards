@@ -1,0 +1,16 @@
+.main__container{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.main__cards{
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 360px);  
+  gap: 10px;
+}
+.MuiPaper-root{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+}
