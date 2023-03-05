@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmCards/static/css/main.57f5ffb6.css",
+    "main.js": "/filmCards/static/js/main.66a5047d.js",
+    "static/media/error.jpg": "/filmCards/static/media/error.16e56ce3cbfe993965ae.jpg",
+    "index.html": "/filmCards/index.html",
+    "main.57f5ffb6.css.map": "/filmCards/static/css/main.57f5ffb6.css.map",
+    "main.66a5047d.js.map": "/filmCards/static/js/main.66a5047d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f5ffb6.css",
+    "static/js/main.66a5047d.js"
+  ]
+}
